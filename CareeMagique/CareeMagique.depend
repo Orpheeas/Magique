@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1484322467 source:d:\projets\codeblocks\exercice\carremagique\careemagique\main.c
+	<stdio.h>
+	<stdlib.h>
+
